@@ -1,0 +1,16 @@
+= Le Jeu De La Vie
+2024
+William Noris
+
+Application écrite à l'aide de WebGL
+
+== Tutoriels / Documentation
+
+Série de tutos WebGL:
+https://youtu.be/-nqIzV9OuQM?si=SHyOl2KlgPYDNKrh
+
+Les règles du jeu de la vie:
+https://fr.wikipedia.org/wiki/Jeu_de_la_vie
+
+Lenia:
+https://fr.wikipedia.org/wiki/Lenia
